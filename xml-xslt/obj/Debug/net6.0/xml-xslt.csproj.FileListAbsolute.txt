@@ -1,0 +1,15 @@
+G:\RND\XML-to-XSLT transformer\xml-xslt\bin\Debug\net6.0\xml-xslt.exe
+G:\RND\XML-to-XSLT transformer\xml-xslt\bin\Debug\net6.0\xml-xslt.deps.json
+G:\RND\XML-to-XSLT transformer\xml-xslt\bin\Debug\net6.0\xml-xslt.runtimeconfig.json
+G:\RND\XML-to-XSLT transformer\xml-xslt\bin\Debug\net6.0\xml-xslt.dll
+G:\RND\XML-to-XSLT transformer\xml-xslt\bin\Debug\net6.0\xml-xslt.pdb
+G:\RND\XML-to-XSLT transformer\xml-xslt\obj\Debug\net6.0\xml-xslt.GeneratedMSBuildEditorConfig.editorconfig
+G:\RND\XML-to-XSLT transformer\xml-xslt\obj\Debug\net6.0\xml-xslt.AssemblyInfoInputs.cache
+G:\RND\XML-to-XSLT transformer\xml-xslt\obj\Debug\net6.0\xml-xslt.AssemblyInfo.cs
+G:\RND\XML-to-XSLT transformer\xml-xslt\obj\Debug\net6.0\xml-xslt.csproj.CoreCompileInputs.cache
+G:\RND\XML-to-XSLT transformer\xml-xslt\obj\Debug\net6.0\xml-xslt.sourcelink.json
+G:\RND\XML-to-XSLT transformer\xml-xslt\obj\Debug\net6.0\xml-xslt.dll
+G:\RND\XML-to-XSLT transformer\xml-xslt\obj\Debug\net6.0\refint\xml-xslt.dll
+G:\RND\XML-to-XSLT transformer\xml-xslt\obj\Debug\net6.0\xml-xslt.pdb
+G:\RND\XML-to-XSLT transformer\xml-xslt\obj\Debug\net6.0\xml-xslt.genruntimeconfig.cache
+G:\RND\XML-to-XSLT transformer\xml-xslt\obj\Debug\net6.0\ref\xml-xslt.dll
